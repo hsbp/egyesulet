@@ -172,9 +172,9 @@ A központ az Alapszabály 2.§-ában megfogalmazott célok megvalósítása ér
 
 2. Az elnökség a következő tisztségviselőkből áll:
 
-    * elnök
-    * titkár
-    * elnökségi tagok
+    1. elnök
+    2. titkár
+    3. elnökségi tagok
 
 3. Az elnökségbe választottak megbízatása megszűnik:
 
