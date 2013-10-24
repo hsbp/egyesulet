@@ -107,7 +107,7 @@ A központ az Alapszabály 2.§-ában megfogalmazott célok megvalósítása ér
 6.§. A rendes tagok jogai
 -------------------------
 
-1. Sszavazati joggal közvetlenül részt vehet a központ közgyűlések határozatainak meghozatalában, észrevételeket, javaslatokat, ajánlásokat tehet, véleményt nyilváníthat a központ szerveinek működésével kapcsolatban.
+1. Szavazati joggal közvetlenül részt vehet a központ közgyűlések határozatainak meghozatalában, észrevételeket, javaslatokat, ajánlásokat tehet, véleményt nyilváníthat a központ szerveinek működésével kapcsolatban.
 
 2. Választási joga van és 14 év felett minden tisztség viselésére megválasztható, ha vele szemben a jogszabályokban meghatározott összeférhetetlenség nem állapítható meg.
 
